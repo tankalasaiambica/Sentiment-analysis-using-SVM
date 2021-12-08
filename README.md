@@ -2,3 +2,4 @@ hello this is a project on sentiment analysis where I used the IMDB movie datase
 here I used the different libraries like matplotlib,eature_extraction like TfidfVectorizer, etc., 
 the algorithm which I used to develop the model is SVM
 and plot the Confusion Matrix
+here I used the IMDB dataset you can download it from any site
